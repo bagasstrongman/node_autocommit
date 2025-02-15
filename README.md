@@ -1,5 +1,6 @@
 # 2025 Calendar
 
+Git Every Commit
 
 - 31 Desember 2024
 - 31 Desember 2024
